@@ -24,7 +24,7 @@ namespace webapi
 
         {
             Configuration = configuration;
-            ConnectionString = Configuration.GetConnectionString("DefaultConnectionString");
+            ConnectionString = Configuration.GetConnectionString("ApiConnectionString");
         }
 
         public IConfiguration Configuration { get; }
