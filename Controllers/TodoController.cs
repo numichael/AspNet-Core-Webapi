@@ -20,14 +20,15 @@ namespace webapi.Controllers
             _context = context;
         }
 
+        //get action
         [HttpGet]
-
         public ActionResult<List<TodoItem>> GetAll()
         {
             List<TodoItem> items = _context.TodoItems.ToList();
             return Ok(items);
         }
 
+        //post action
         [HttpPost]
 
         public IActionResult Add(TodoItem model)

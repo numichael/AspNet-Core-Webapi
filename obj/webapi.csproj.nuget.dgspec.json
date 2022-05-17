@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\repos\\webapi\\webapi.csproj": {}
+    "C:\\Users\\hp\\desktop\\dotnet\\webapi\\webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\repos\\webapi\\webapi.csproj": {
+    "C:\\Users\\hp\\desktop\\dotnet\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\repos\\webapi\\webapi.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\desktop\\dotnet\\webapi\\webapi.csproj",
         "projectName": "webapi",
-        "projectPath": "C:\\Users\\hp\\repos\\webapi\\webapi.csproj",
+        "projectPath": "C:\\Users\\hp\\desktop\\dotnet\\webapi\\webapi.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\repos\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\hp\\desktop\\dotnet\\webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -81,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
