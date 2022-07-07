@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "FilePath": "c:\\Users\\HP\\repos\\webapi\\webapi.csproj",
+=======
+  "FilePath": "c:\\Users\\hp\\Desktop\\DOTNET\\webapi\\webapi.csproj",
+>>>>>>> fb871833bdd5e3905927edf93dc486db76008205
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",

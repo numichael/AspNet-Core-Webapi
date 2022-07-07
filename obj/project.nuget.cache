@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Yufu04mnIfrErHUWW1hLkQ+yckth/uLCNCnrWzT3Fst9iPT+Bmo70Lb1h2/Ur1Lfe/aAari+uXlo0N9KzR2Y8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\repos\\webapi\\webapi.csproj",
+=======
+  "dgSpecHash": "uphz0Z79u8sEM84l/Tys8XIxnAsY99OQq9mkirdKiKS2c1WtCRVDgevU8iBIItJwtAlqlczCMROWrXiPBs2SVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\desktop\\dotnet\\webapi\\webapi.csproj",
+>>>>>>> fb871833bdd5e3905927edf93dc486db76008205
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

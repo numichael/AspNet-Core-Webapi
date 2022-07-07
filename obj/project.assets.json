@@ -5985,6 +5985,7 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\HP\\repos\\webapi\\webapi.csproj",
       "projectName": "webapi",
       "projectPath": "C:\\Users\\HP\\repos\\webapi\\webapi.csproj",
@@ -5993,6 +5994,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\hp\\desktop\\dotnet\\webapi\\webapi.csproj",
+      "projectName": "webapi",
+      "projectPath": "C:\\Users\\hp\\desktop\\dotnet\\webapi\\webapi.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\desktop\\dotnet\\webapi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> fb871833bdd5e3905927edf93dc486db76008205
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6061,7 +6072,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+>>>>>>> fb871833bdd5e3905927edf93dc486db76008205
       }
     }
   }
